@@ -1,0 +1,24 @@
+{
+  "name": "karaokeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoto-Cocoa/KaraokeApi.git"
+  },
+  "author": "Hoto Cocoa <cocoa@hoto.us>",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "bugs": {
+    "url": "https://github.com/Hoto-Cocoa/KaraokeApi/issues"
+  },
+  "homepage": "https://github.com/Hoto-Cocoa/KaraokeApi#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.24",
+    "request": "^2.88.0"
+  }
+}
